@@ -13,6 +13,6 @@ import time
 #     i = i+1
 # print("time taken by while loop ",time.time()-initial2)
 
-
+# Main code starts from here
 localtime = time.asctime(time.localtime(time.time))
 print(localtime)
